@@ -20,6 +20,6 @@ based on five key parameters:
 #### MD files are established to explain
 #### CSV files are outcomes after running code
 ### Note
-Some files contain Chinese text
+Some files contain Chinese text.
 If any question bothers please contact Li through email-address listed in the article
 
