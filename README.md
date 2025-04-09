@@ -19,5 +19,7 @@ based on five key parameters:
 #### Keyword & abstract extracted to verify the weights(keyword_analysis.py)
 #### MD files are established to explain
 #### CSV files are outcomes after running code
-
+### Note
+Some files contain Chinese text
+If any question bothers please contact Li through email-address listed in the article
 
