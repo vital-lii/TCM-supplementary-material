@@ -5,18 +5,18 @@ This repository contains the implementation of a semi-quantitative scoring syste
 The system provides a structured approach to assess the potential of nanoparticle formulations for pulmonary delivery applications. 
 While the correlation between the scoring system and actual performance metrics (FPF/MMAD) was found to be non-linear, the framework serves as a valuable early screening tool for nanoparticle development.
 ### Key component
-Semi-Quantitative Scoring System(semi_qua.py)
+#### Semi-Quantitative Scoring System(semi_qua.py)
 based on five key parameters:
 * Particle size (nm)
 * Polydispersity index (PDI)
 * Zeta potential (mV)
 * Carrier type
 * Surface modification
-Validation Framework(validate_weights.py)
+#### Validation Framework(validate_weights.py)
 * This script tests the correlation between calculated scores and actual performance metrics (FPF and MMAD) extracted from published literature.
-Search & analyse literature(search_test.py)
+#### Search & analyse literature(search_test.py)
 * Using NCBI APIKEY to collect the applicable information from literature(search paradigm is customized)
-Keyword & abstract extracted to verify the weights(keyword_analysis.py)
+#### Keyword & abstract extracted to verify the weights(keyword_analysis.py)
 MD files are established to explain
 CSV files are outcomes after running code
 
