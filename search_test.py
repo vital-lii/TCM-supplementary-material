@@ -19,8 +19,8 @@ class PubMedSearcher:
         """
         self.path_manager = PathManager()  # 先初始化路径管理器
         self.path_manager.ensure_dirs()
-        self.setup_logging()  # 然后设置日志
-        self.setup_entrez(email, api_key)  # 最后设置Entrez
+        self.setup_logging()  # 设置日志
+        self.setup_entrez(email, api_key)  # 设置Entrez
         
     def setup_entrez(self, email, api_key):
         """配置Entrez"""
