@@ -1,0 +1,28 @@
+类别,相对权重,参数,参数权重
+physical properties,0.348,size,0.548
+physical properties,0.348,particle size,0.403
+physical properties,0.348,zeta potential,0.032
+physical properties,0.348,diameter,0.016
+carrier properties,0.258,chitosan,0.543
+carrier properties,0.258,carrier,0.217
+carrier properties,0.258,hyaluronic acid,0.130
+carrier properties,0.258,nanocarrier,0.065
+carrier properties,0.258,surface modification,0.022
+carrier properties,0.258,surface charge,0.022
+biological properties,0.253,toxicity,0.533
+biological properties,0.253,stability,0.178
+biological properties,0.253,cytotoxicity,0.111
+biological properties,0.253,biocompatibility,0.089
+biological properties,0.253,targeting ability,0.044
+biological properties,0.253,targeting efficiency,0.022
+biological properties,0.253,specific targeting,0.022
+delivery properties,0.096,cellular uptake,0.353
+delivery properties,0.096,biodistribution,0.235
+delivery properties,0.096,degradation,0.176
+delivery properties,0.096,internalization,0.118
+delivery properties,0.096,biodegradability,0.118
+drug properties,0.034,encapsulation efficiency,0.500
+drug properties,0.034,drug loading,0.333
+drug properties,0.034,sustained release,0.167
+pulmonary specific,0.011,mucus penetration,0.500
+pulmonary specific,0.011,mucosal barrier,0.500
