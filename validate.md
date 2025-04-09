@@ -185,8 +185,6 @@ The complete validation process, data, and code can be accessed through the foll
 - Data files: `data/input/list.md` or `data/input/nanocarriers.csv`
 - Core implementation of scoring system: `code/semi_qua.py`
 - Validation script: `code/validate_weights.py`
-- Data conversion tool: `code/convert_md_to_csv.py`
-- Instructions: `README.md`
 
 ## 8. Conclusion
 
