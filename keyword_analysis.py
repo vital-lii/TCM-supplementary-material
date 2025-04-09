@@ -62,7 +62,7 @@ def process_file(file, reader):
         
         # 统计关键参数出现次数
         for param in key_parameters:
-            # 针对PDI添加特殊处理
+            # 针对PDI特殊处理
             if param in ['PDI', 'polydispersity']:
                 # 扩展搜索以捕获更多PDI相关表述
                 patterns = [
