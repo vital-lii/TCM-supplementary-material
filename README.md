@@ -17,7 +17,7 @@ based on five key parameters:
 #### Search & analyse literature(search_test.py)
 * Using NCBI APIKEY to collect the applicable information from literature(search paradigm is customized)
 #### Keyword & abstract extracted to verify the weights(keyword_analysis.py)
-MD files are established to explain
-CSV files are outcomes after running code
+#### MD files are established to explain
+#### CSV files are outcomes after running code
 
 
