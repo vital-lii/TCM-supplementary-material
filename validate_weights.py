@@ -267,7 +267,7 @@ def main():
         plt.savefig(os.path.join(output_dir, 'mmad_correlation.png'))
         plt.close()  
     
-    # 如果两个图都创建了，显示完成信息
+    # 若两个图都创建了，显示完成信息
     if len(fpf_values) >= 2 and len(mmad_values) >= 2:
         print(f"分析完成。图表已保存至 {output_dir} 目录")
 
